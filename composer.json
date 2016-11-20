@@ -1,6 +1,7 @@
 {
     "require": {
         "irazasyed/telegram-bot-sdk": "2.0",
-        "zarincheg/telegram-bot-dialogs": "dev-master"
+        "zarincheg/telegram-bot-dialogs": "dev-master",
+        "altorouter/altorouter": "1.1.0"
     }
 }
